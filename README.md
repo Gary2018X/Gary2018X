@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: happy
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Gary2018X&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+## 👨‍💻 语言统计
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gary2018X&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&layout=compact&hide=Makefile,QML,QMAKE&langs_count=8)](https://github.com/Gary2018X)
